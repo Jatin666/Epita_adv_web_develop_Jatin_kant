@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+      "paths": {
+        "core-ui/components/*": [
+          "core-ui/components(common components)/*"
+        ],
+        "assets/*": ["assets/*"],
+        "constants/*": ["constants/*"],
+        "services/*": ["services/*"],
+        "store/*": ["store/*"],
+        "helpers/*": ["helpers/*"],
+        "interfaces/*": ["interfaces/*"],
+        "components/*": ["components/*"],
+        "validations/*": ["validations/*"],
+        "pages/*": ["pages/*"],
+        "layouts/*": ["layouts/*"],
+      },
+    }
+}
